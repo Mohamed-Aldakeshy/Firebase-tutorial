@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735211718614",
+    "project_id": "tutorial-d713e",
+    "storage_bucket": "tutorial-d713e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735211718614:android:e1b1e4c79fb84b6c0e4677",
+        "android_client_info": {
+          "package_name": "com.example.firebase_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyszvB2Xfd-Lokef16eQYSZT9CZad0rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
